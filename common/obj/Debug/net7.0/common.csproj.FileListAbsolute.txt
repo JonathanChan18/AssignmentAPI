@@ -1,0 +1,11 @@
+C:\Users\P12B9AB\source\repos\AssignmentAPI\common\bin\Debug\net7.0\common.deps.json
+C:\Users\P12B9AB\source\repos\AssignmentAPI\common\bin\Debug\net7.0\common.dll
+C:\Users\P12B9AB\source\repos\AssignmentAPI\common\bin\Debug\net7.0\common.pdb
+C:\Users\P12B9AB\source\repos\AssignmentAPI\common\obj\Debug\net7.0\common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P12B9AB\source\repos\AssignmentAPI\common\obj\Debug\net7.0\common.AssemblyInfoInputs.cache
+C:\Users\P12B9AB\source\repos\AssignmentAPI\common\obj\Debug\net7.0\common.AssemblyInfo.cs
+C:\Users\P12B9AB\source\repos\AssignmentAPI\common\obj\Debug\net7.0\common.csproj.CoreCompileInputs.cache
+C:\Users\P12B9AB\source\repos\AssignmentAPI\common\obj\Debug\net7.0\common.dll
+C:\Users\P12B9AB\source\repos\AssignmentAPI\common\obj\Debug\net7.0\refint\common.dll
+C:\Users\P12B9AB\source\repos\AssignmentAPI\common\obj\Debug\net7.0\common.pdb
+C:\Users\P12B9AB\source\repos\AssignmentAPI\common\obj\Debug\net7.0\ref\common.dll

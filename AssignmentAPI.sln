@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignmentAPI", "AssignmentAPI\AssignmentAPI.csproj", "{DCB6D46C-BFC9-4571-AA06-E80C0BC33FAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{1041DBC8-1B18-47D5-98BC-540A38C9B022}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "common", "common\common.csproj", "{495A3D9D-5C85-4434-82A3-A5D74CEDB977}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCB6D46C-BFC9-4571-AA06-E80C0BC33FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB6D46C-BFC9-4571-AA06-E80C0BC33FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB6D46C-BFC9-4571-AA06-E80C0BC33FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB6D46C-BFC9-4571-AA06-E80C0BC33FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1041DBC8-1B18-47D5-98BC-540A38C9B022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1041DBC8-1B18-47D5-98BC-540A38C9B022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1041DBC8-1B18-47D5-98BC-540A38C9B022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1041DBC8-1B18-47D5-98BC-540A38C9B022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{495A3D9D-5C85-4434-82A3-A5D74CEDB977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{495A3D9D-5C85-4434-82A3-A5D74CEDB977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{495A3D9D-5C85-4434-82A3-A5D74CEDB977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{495A3D9D-5C85-4434-82A3-A5D74CEDB977}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C33AA2BE-795F-4CE8-8BFB-162AF1BBF44E}
+	EndGlobalSection
+EndGlobal
